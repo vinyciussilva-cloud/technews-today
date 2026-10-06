@@ -97,7 +97,7 @@ O **TechNews Today** nasceu na **Aula 10** do curso de **Desenvolvimento de Sist
 
 Acesse o projeto publicado pelo **GitHub Pages**:
 
-### 👉 [`https://SEU-USUARIO.github.io/technews-today/desafio10a.html`](https://SEU-USUARIO.github.io/technews-today/desafio10a.html)
+### 👉 [`https://vinyciussilva-cloud.github.io/technews-today/desafio10a.html`](https://SEU-USUARIO.github.io/technews-today/desafio10a.html)
 
 <details>
 <summary><b>⚙️ Como ativar o GitHub Pages neste repositório</b></summary>
@@ -579,7 +579,7 @@ Para incentivar um CSS **enxuto e inteligente**: usar seletores certos, agrupar 
 ### **Vinycius Lopes Monteiro da Silva**
 🎓 Estudante de **Desenvolvimento de Sistemas** · **SENAI** · Turma **1ID-DS**
 
-[![GitHub](https://img.shields.io/badge/GitHub-vinyciussilva-cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinyciussilva-cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
 
 </div>

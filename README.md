@@ -579,7 +579,7 @@ Para incentivar um CSS **enxuto e inteligente**: usar seletores certos, agrupar 
 ### **Vinycius Lopes Monteiro da Silva**
 🎓 Estudante de **Desenvolvimento de Sistemas** · **SENAI** · Turma **1ID-DS**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-vinyciussilva-cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinyciussilva-cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
 
 </div>
